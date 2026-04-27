@@ -1,6 +1,6 @@
 """
 Case Studies - Real-world Healthcare AI Ethics Scenarios
-Author: Gopesh Aggarwal (2301730158)
+Author:Yash Vashisth (2301730149)
 
 Description:
 A library of short case studies illustrating ethical issues in healthcare AI
