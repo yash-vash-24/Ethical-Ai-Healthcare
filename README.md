@@ -10,8 +10,8 @@
 - Downloadable compliance reports
 - Aligned with HIPAA, GDPR, DPDP Act 2023, FDA SaMD, WHO, and EU AI Act
 
-### Author: Gopesh Aggarwal
-### Roll No: 2301730158
+### Author:Yash Vashisth
+### Roll No: 2301730149
 
 ## Setup
 ```bash
@@ -52,8 +52,8 @@ Python • Streamlit • Healthcare AI Ethics Standards
 
 ## Author
 
-**Name:** Gopesh Aggarwal
-**Roll Number:** 2301730158
+**Name:**Yash Vashisth
+**Roll Number:** 2301730149
 **Project:** Ethical AI Implementation Framework for Healthcare
 **Date:** 2024-2025
 
