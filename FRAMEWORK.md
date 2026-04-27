@@ -1,7 +1,7 @@
 # Ethical AI Implementation Framework for Healthcare
 
-**Author:** Gopesh Aggarwal
-**Roll No:** 2301730158
+**Author:** Yash Vashisth
+**Roll No:** 2301730149
 **Version:** 1.0
 
 ---
@@ -163,4 +163,4 @@ The `ethics_framework.py` module implements the scoring logic. The `app.py` Stre
 ---
 
 *Prepared as part of the Generative AI curriculum.*
-*Gopesh Aggarwal — Roll No 2301730158.*
+*Yash Vashisth — Roll No 2301730149.*
