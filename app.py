@@ -1,6 +1,6 @@
 """
 Ethical AI Implementation Framework for Healthcare - Streamlit App
-Author: Gopesh Aggarwal
+Author: Yash Vashisth
 Roll No: 2301730158
 
 Description:
@@ -53,7 +53,7 @@ st.markdown("""
 <div class="header">
     <h1>🩺 Ethical AI Framework for Healthcare</h1>
     <p>Responsible Generative AI in Medical Applications</p>
-    <p><b>Gopesh Aggarwal</b> | Roll No: 2301730158</p>
+    <p><b>Yash Vashisth</b> | Roll No: 2301730158</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -215,7 +215,7 @@ with tab4:
 st.markdown("---")
 st.markdown(
     "<div style='text-align:center; color:gray; font-size:12px;'>"
-    "Ethical AI Framework for Healthcare | Gopesh Aggarwal (2301730158)"
+    "Ethical AI Framework for Healthcare | Yash Vashisth (2301730158)"
     "</div>",
     unsafe_allow_html=True
 )
