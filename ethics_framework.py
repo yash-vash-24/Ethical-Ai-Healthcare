@@ -1,7 +1,7 @@
 """
 Ethical AI Implementation Framework for Healthcare
-Author: Gopesh Aggarwal
-Roll No: 2301730158
+Author: Yash Vashisth
+Roll No: 2301730149
 
 Description:
 Core framework module that defines ethical principles, evaluates AI systems
@@ -200,7 +200,7 @@ def format_text_report(evaluation, recommendations):
 
     lines.append("\n" + "=" * 70)
     lines.append("  Prepared using the Ethical AI Framework for Healthcare")
-    lines.append("  Author: Gopesh Aggarwal (2301730158)")
+    lines.append("  Author: Yash Vashisth (2301730149)")
     lines.append("=" * 70)
     return "\n".join(lines)
 
@@ -208,7 +208,7 @@ def format_text_report(evaluation, recommendations):
 def main():
     """CLI entry point for a quick demo assessment."""
     print("\nEthical AI Framework for Healthcare - Demo Assessment")
-    print("Author: Gopesh Aggarwal (2301730158)\n")
+    print("Author: Yash Vashisth (2301730149)\n")
 
     demo_responses = {
         "bias_tested_across_demographics": True,
